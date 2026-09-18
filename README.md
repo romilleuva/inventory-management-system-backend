@@ -191,7 +191,6 @@ sequenceDiagram
 
 ## 📡 API Endpoints
 
-> Replace these examples with the exact routes in the source code.
 
 | Method | Endpoint | Purpose |
 |---|---|---|
