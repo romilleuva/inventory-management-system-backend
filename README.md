@@ -82,7 +82,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,mysql,postgres,git,github&theme=dark" alt="Backend technology stack">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github&theme=dark" alt="Backend technology stack">
 
 </div>
 
