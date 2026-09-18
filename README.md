@@ -106,7 +106,6 @@ inventory-management-system-backend/
 └── README.md
 ```
 
-> Adjust this structure to match the actual repository.
 
 ---
 
