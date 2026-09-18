@@ -92,13 +92,17 @@ flowchart LR
 ```text
 inventory-management-system-backend/
 ├── src/
+│   ├── chatbot/
+│   ├── config/
 │   ├── controllers/
-│   ├── routes/
-│   ├── models/
 │   ├── middleware/
-│   ├── services/
-│   └── config/
+│   ├── models/
+│   ├── routes/
+|   └── utils
+├── server.js
 ├── .env.example
+├──.gitignore
+├── package-lock.json
 ├── package.json
 └── README.md
 ```
