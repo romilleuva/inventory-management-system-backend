@@ -78,7 +78,6 @@ flowchart LR
 
 ## 🛠️ Technology Stack
 
-> Replace these icons with the exact technologies used by the project.
 
 <div align="center">
 
