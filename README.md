@@ -38,7 +38,6 @@ Frontend repository:
 
 [Inventory Management System Frontend](https://github.com/romilleuva/inventory-management-system-frontend)
 
-> Update the feature list below to match the actual implementation.
 
 ---
 
